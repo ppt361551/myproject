@@ -5,6 +5,8 @@ fun main() {
 //    Human().hello()
     val h = Human()
     h.hello()
+    var name:String
+    name = "Ray"
 }
 
 class Human {
