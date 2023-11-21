@@ -1,3 +1,5 @@
+package com.ray;
+
 public class Person {
     String name;
     float weight;
